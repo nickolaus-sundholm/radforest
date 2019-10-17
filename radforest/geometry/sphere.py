@@ -1,0 +1,1 @@
+"""Object representing a sphere in Radiance."""
